@@ -1,0 +1,1 @@
+The printf function is a very important and versatile function in C programming language. This project is geared towards building our custom version of it to enhance our understanding of the language.
